@@ -10,5 +10,5 @@ class Transaction{
 }
 
 During this task we have to use TDD and baby steps, In other words, we need to commit foreach step
-1- Create a method which create transactions traded betwin 2010 and 2015
+1- Create a method which create transactions traded betwin 2011 and 2012
 2- Create a method which return all the transactions mad in 2011 ordred by amountTransaction
